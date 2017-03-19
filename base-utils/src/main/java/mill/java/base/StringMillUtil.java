@@ -1,5 +1,7 @@
 package mill.java.base;
 
+import com.sun.deploy.net.proxy.ProxyUtils;
+
 /**
  * Created by mill on 17/3/20.
  */

@@ -11,4 +11,9 @@ public class ObjectMillUtil {
 
 
     }
+
+    public static boolean isNull(Object args) {
+
+        return false;
+    }
 }

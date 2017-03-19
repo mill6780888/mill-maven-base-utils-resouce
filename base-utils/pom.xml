@@ -4,7 +4,7 @@
   <groupId>mill.java.base</groupId>
   <artifactId>base-utils</artifactId>
   <packaging>jar</packaging>
-  <version>1.0-SNAPSHOT</version>
+  <version>1.0.1-SNAPSHOT</version>
   <name>base-utils</name>
   <url>http://maven.apache.org</url>
   <dependencies>
@@ -33,6 +33,11 @@
       <version>1.2.3</version>
     </dependency>
 
-
+      <!-- https://mvnrepository.com/artifact/commons-beanutils/commons-beanutils -->
+      <dependency>
+          <groupId>commons-beanutils</groupId>
+          <artifactId>commons-beanutils</artifactId>
+          <version>1.9.2</version>
+      </dependency>
   </dependencies>
 </project>

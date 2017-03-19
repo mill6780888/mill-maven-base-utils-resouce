@@ -17,5 +17,7 @@
     <orderEntry type="library" name="Maven: opensymphony:ognl:2.6.11" level="project" />
     <orderEntry type="library" name="Maven: org.rifers:rife-continuations:0.0.2" level="project" />
     <orderEntry type="library" name="Maven: opensymphony:oscore:2.2.4" level="project" />
+    <orderEntry type="library" name="Maven: commons-beanutils:commons-beanutils:1.9.2" level="project" />
+    <orderEntry type="library" name="Maven: commons-collections:commons-collections:3.2.1" level="project" />
   </component>
 </module>
